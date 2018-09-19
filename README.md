@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ScottNagy/Aquarius/_apis/build/status/s-n-a-g-y.pipelines-dotnet-core)](https://dev.azure.com/ScottNagy/Aquarius/_build/latest?definitionId=1)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
